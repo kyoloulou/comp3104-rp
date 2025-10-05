@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/kyoloulou/comp3104-rp/issues"
   },
-  "homepage": "https://github.com/kyoloulou/comp3104-rp#readme",
+  "homepage": "https://kyoloulou.github.com/comp3104-rp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
